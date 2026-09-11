@@ -7,7 +7,7 @@ export default function Home() {
             demo-connect-test
           </h1>
           <p className="max-w-md text-lg text-muted-foreground">
-            To get started, send a prompt or modify this page directly.
+            hello there
           </p>
         </div>
       </main>
